@@ -40,7 +40,7 @@
 
 *	A visualization was created to correlate the popularity of different starting locations. The most popular starting locations are in Manhattan, possibly by popular locations.
 
-To see the full Tableau story, please click this [link to dashboard](https://public.tableau.com/app/profile/haley.miller8084/viz/CitiBikeChallenge_16529016426550/CitiBikeExpansion?publish=yes).
+***To see the full Tableau story, please click this [link to dashboard](https://public.tableau.com/app/profile/haley.miller8084/viz/CitiBikeChallenge_16529016426550/CitiBikeExpansion?publish=yes).***
 
 ## Bikesharing Summary
 Based on the visualizations created, the majority of bike trips last less than 30 minutes. Additionally, males comprise the majority of Citi Bike users as indicated in the trip duration breakdown by gender as well as the gender and startime/stoptime. Most users of Citi Bike services are from subscribers, which indicates that users find value in multiple trips through Citi Bike as opposed to single use customers. As New York City is a large tourist destination, customers might be more prevalent as tourists may not need a long-term subscriptions. For the entrepreneurs in Des Moines, they can surmise that subscribers would also make up the majority of their business.
