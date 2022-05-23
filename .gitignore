@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignored Files
+201908-citibike-tripdata.csv
+updated_bike_info.csv
+
 # C extensions
 *.so
 
